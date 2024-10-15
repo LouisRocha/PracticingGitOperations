@@ -1,1 +1,2 @@
 this is a text file
+I am now editing this text file on a differnet branch.
